@@ -1,0 +1,4 @@
+protocol: http
+host: localhost
+port: 12345
+strict_mode: true
